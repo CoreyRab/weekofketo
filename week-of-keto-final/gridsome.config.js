@@ -13,7 +13,7 @@ if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
 
 module.exports = {
 	siteName: "Week of Keto",
-	siteUrl: "https://youthful-sinoussi-3b94da.netlify.com",
+	siteUrl: "https://mystifying-northcutt-52c7b9.netlify.com",
 	defaultImage: "/wok-meta.png",
 	plugins: [
 		// CONTENT
